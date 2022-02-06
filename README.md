@@ -1,0 +1,2 @@
+This project is meant to demonstrate knowledge of basic HTML foundations. 
+This includes setting up an HTML boilerplate, showing understanding of elements and tags, how to create lists, and links and images.
